@@ -12,16 +12,13 @@ The dataset includes building features, observation year, insured period, and ot
 
 ## Project Structure
 
-Insurance-claim-prediction/
-├── data/
-│   ├── cleaned_train_data.csv
-│   ├── Train_data.csv
-│   └── Variable_Description.csv
+Insurance-claim-prediction-clean/
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_eda.ipynb
 │   ├── 03_modeling.ipynb
 └── README.md
+├── .gitignore
 
 ---
 
