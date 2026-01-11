@@ -97,6 +97,4 @@ Top 10 features driving predictions:
 
 1. Clone this repository: 
 ```bash
-git clone <https://github.com/PreciousUzoka-Analyst/Insurance-claim-prediction.git>
-
-# Note: Due to GitHub file size limits, the dataset is not included in the repository. The notebooks assume the data is placed in the data/folder as described.
+git clone <https://github.com/PreciousUzoka-Analyst/Insurance-claim-prediction-clean.git>
